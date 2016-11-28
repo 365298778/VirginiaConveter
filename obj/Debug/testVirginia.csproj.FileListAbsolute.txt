@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\testVirginia\testVirginia\bin\Debug\testVirginia.exe.config
+C:\Users\admin\Desktop\testVirginia\testVirginia\obj\Debug\testVirginia.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\testVirginia\testVirginia\bin\Debug\testVirginia.exe
+C:\Users\admin\Desktop\testVirginia\testVirginia\bin\Debug\testVirginia.pdb
+C:\Users\admin\Desktop\testVirginia\testVirginia\obj\Debug\testVirginia.exe
+C:\Users\admin\Desktop\testVirginia\testVirginia\obj\Debug\testVirginia.pdb
+C:\Users\admin\Desktop\学习项目\密码工具\维吉尼亚密码\testVirginia\testVirginia\bin\Debug\testVirginia.exe.config
+C:\Users\admin\Desktop\学习项目\密码工具\维吉尼亚密码\testVirginia\testVirginia\obj\Debug\testVirginia.exe
+C:\Users\admin\Desktop\学习项目\密码工具\维吉尼亚密码\testVirginia\testVirginia\obj\Debug\testVirginia.pdb
+C:\Users\admin\Desktop\学习项目\密码工具\维吉尼亚密码\testVirginia\testVirginia\bin\Debug\testVirginia.exe
+C:\Users\admin\Desktop\学习项目\密码工具\维吉尼亚密码\testVirginia\testVirginia\bin\Debug\testVirginia.pdb
+C:\Users\admin\Desktop\学习项目\密码工具\维吉尼亚密码\testVirginia\testVirginia\obj\Debug\testVirginia.csprojResolveAssemblyReference.cache
+G:\Project\密码工具\维吉尼亚密码\testVirginia\testVirginia\bin\Debug\testVirginia.exe.config
+G:\Project\密码工具\维吉尼亚密码\testVirginia\testVirginia\obj\Debug\testVirginia.exe
+G:\Project\密码工具\维吉尼亚密码\testVirginia\testVirginia\obj\Debug\testVirginia.pdb
